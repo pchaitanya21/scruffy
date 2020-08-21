@@ -1,8 +1,8 @@
 # scruffy
 a doggo dating site landing page
 skills learnt--
-structured and scalable code that translates to mobile view
-working with color schemes
-working with bootstrap objects..
-carousel 
-price placeholders
+1.structured and scalable code that translates to mobile view
+2.working with color schemes
+3.working with bootstrap objects..
+a)arousel 
+b)price placeholders
